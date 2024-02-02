@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **darshansharma/darshansharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I am [Darshan Sharma](https://darshan.sh)
+### Hi there
 <br>
 
 ## About me
@@ -119,7 +118,7 @@ English Translation: Even those who are considered the most immoral of all sinne
 
 ## My profile overview:
 
-![Darshan's github stats](https://github-readme-stats.vercel.app/api?username=darshansharma&show_icons=true)
+[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshansharma)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 
