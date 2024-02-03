@@ -121,6 +121,6 @@ Capability: I'm the best in my mind
 <br>  
 <br>  
 
-<a href="https://app.daily.dev/darshansharma_"><img src="https://github.com/darshansharma/darshanrma/blob/main/devcard.svg" width="400" alt="Darshan's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/darshansharma/darshanrma/blob/main/devcard.svg" width="400" alt="Darshan's Dev Card"/></a>
 <br>
 <br>
