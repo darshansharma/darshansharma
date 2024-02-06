@@ -2,15 +2,14 @@
 <h3 align="center">Fullstack Developer</h3>
 <h3 align="center">From simplicity of binary to complexity of quantum, I pave my way</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshansharma&label=Profile%20views&color=0e75b6&style=flat&base=1254" alt="darshansharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshansharma" alt="darshansharma" /></a> </p>
 
-- 🔭 I’m currently working on **Aws Lambda Functions**
+- 🔭 I’m currently working on **LLMs and Automating Tasks**
 
 - 🌱 I’m currently learning **LLMs | Kubernetes | Machine Learning**
 
-- <img align="left" alt="Darshan's Home" width="17px" src="https://dars-portfolio.s3.us-west-2.amazonaws.com/Images/favicon.png"/> &nbsp;&nbsp;You can visit my home at [darshan.sh](https://darshan.sh)
+- <img align="left" alt="Darshan's Home" width="17px" src="https://dars-portfolio.s3.us-west-2.amazonaws.com/Images/favicon.png"/> &nbsp;You can visit my home at [darshan.sh](https://darshan.sh)
 
 - 📝 I regularly write articles on [darshan.sh/blog](https://darshan.sh/posts)
 
@@ -45,8 +44,6 @@ Capability: I'm the best in my mind
 </p>
 
 
-
-
 ## Skills <br>
   
 **Key Skills:** System Design, Docker, Kubernetes  
@@ -59,11 +56,11 @@ Capability: I'm the best in my mind
   
 **API:** REST, GraphQL, gRPC, DASH  
   
-**Cloud:** AWS-(Lambda, EC2, SES, CloudFront, cdk, lightsail), GCP, Firebase  
+**Cloud:** Lambda Functions, EC2, SES, CloudFront, cdk, ECS, EKS, GCP, Vertex-AI, Speech Synthesis, Firebase     
   
 **Core CS:** Data Structure, Algorithms, Computer Networks (CCNA), Theory of Computation 
   
-**Servers:** Apache, Nginx, webpack-dev-server  
+**Servers:** Apache, Nginx, webpack-dev-server, ng-lok     
   
 **Stacks:** LAMP, XAMPP, MERN, PERN  
   
@@ -80,7 +77,6 @@ Capability: I'm the best in my mind
 **Embedded System:** - 8085 microprocessor programming, Raspberry Pi  
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
   
@@ -88,7 +84,7 @@ Capability: I'm the best in my mind
 <br>  
 
 ### Since you've come till here, take something which will remain with you forever
-
+    
 <code>
 अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: |<br>
 सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ||
@@ -109,6 +105,11 @@ Capability: I'm the best in my mind
 <br>
 <br> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshansharma&label=Profile%20views&color=0e75b6&style=flat&base=3254" alt="darshansharma" /> </p>
+
+<br>
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshansharma&show_icons=true&locale=en&layout=compact" alt="darshansharma" /></p>
 <br>  
 <br>  
@@ -121,6 +122,12 @@ Capability: I'm the best in my mind
 <br>  
 <br>  
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/darshansharma/darshanrma/blob/main/devcard.svg" width="400" alt="Darshan's Dev Card"/></a>
+[![Darshan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=darshansharma_)](https://github.com/JeremyTsaii/leetcode-stats)
+
+<br>
+<br>  
+
+
+<a href="https://app.daily.dev/darshansharma_"><img src="https://api.daily.dev/devcards/fed079832a0049ef891588abc570edf3.png?r=6un" width="400" alt="Darshan Sharma's Dev Card"/></a>
 <br>
 <br>
