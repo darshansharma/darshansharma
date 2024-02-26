@@ -3,13 +3,11 @@
 <h3 align="center">From simplicity of binary to complexity of quantum, I pave my way</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshansharma" alt="darshansharma" /></a> </p>
-
 - 🔭 I’m currently working on **LLMs and Automating Tasks**
 
 - 🌱 I’m currently learning **LLMs | Kubernetes | Machine Learning**
 
-- <img align="left" alt="Darshan's Home" width="17px" src="https://dars-portfolio.s3.us-west-2.amazonaws.com/Images/favicon.png"/> &nbsp;You can visit my home at [darshan.sh](https://darshan.sh)
+- <img align="left" alt="Darshan's Home" width="17px" src="https://dars-portfolio.s3.us-west-2.amazonaws.com/Images/favicon.png"/> You can visit my home at [darshan.sh](https://darshan.sh)
 
 - 📝 I regularly write articles on [darshan.sh/blog](https://darshan.sh/posts)
 
