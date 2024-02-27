@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">Fullstack Developer</h3>
-<h3 align="center">From simplicity of binary to complexity of quantum, I pave my way</h3>
-
+<h3 align="center">From simplicity of binary to complexity of quantum, I will pave my way</h3>
 
 - 🔭 I’m currently working on **LLMs and Automating Tasks**
 
@@ -23,7 +22,7 @@
 name: darshan sharma
 handle: darshansharma_
 website: darshan.sh
-Interest: Space, Ramanujan, Physics, and one of the 7 immortals
+Interest: Cosmos, Ramanujan, Physics
 Nature: Shy, Introvert
 Capability: I'm the best in my mind
 ---
@@ -75,33 +74,12 @@ Capability: I'm the best in my mind
 **Embedded System:** - 8085 microprocessor programming, Raspberry Pi  
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Exams & Certifications:</h3>
 <p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> </p>  
-<br>
-<br>  
+<a href="https://drive.google.com/file/d/1Lv3TDe4npk1VuJv-b4dXE0zhoRnZ-vnk/view?usp=drive_link" target="blank"><img align="center" src="assets/iit-delhi.png" alt="darshan-sharma-gate2020" height="60" width="60" /></a>
+<a href="https://www.credly.com/badges/f881faff-5d2a-4e4c-a476-dffe9ad6c289/public_url" target="blank"><img align="center" src="assets/GHAS.png" alt="darshan-sharma-ghas" height="60" width="60" /></a>
+</p>
 
-### Since you've come till here, take something which will remain with you forever
-    
-<code>
-अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: |<br>
-सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ||
-</code>
-    
-<br>
-<br>    
-    
->तो तुम भी ज्ञान की नौका में बैठकर पाप के सागर को पार कर जाओ । ये समझलो पार्थ जैसे अग्नि सब कुछ जला कर भस्म कर देती है, वैसे ही ज्ञान की अग्नि कर्म की इच्छा, कर्म के फल न मिलने पर आने वाले क्रोध और उस क्रोध से उत्पन हुए मोह को भस्म कर देती है । हे पार्थ इस मंत्र को हमेशा याद रखो इस संसार में ज्ञान के समान पवित्र करने वाली न कोई वस्तु है न कोई तत्त्व ।
-  
-  
-<br>
-<br>  
-  
-  
->**English Translation:** Even those who are considered the most immoral of all sinners can cross over this ocean of material existence by seating themselves in the boat of divine knowledge.
-
-<br>
-<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshansharma&show_icons=true&locale=en&layout=compact" alt="darshansharma" /></p>
 <br>  
