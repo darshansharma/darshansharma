@@ -86,19 +86,6 @@ Capability: I'm the best in my mind
 <br>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshansharma&show_icons=true&locale=en" alt="darshansharma" /></p>
-<br>  
-<br>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshansharma&" alt="darshansharma" /></p>
-<br>  
-<br>  
-
-[![Darshan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=darshansharma_)](https://github.com/JeremyTsaii/leetcode-stats)
-
-<br>
-<br>  
-
-
-<a href="https://app.daily.dev/darshansharma_"><img src="https://api.daily.dev/devcards/fed079832a0049ef891588abc570edf3.png?r=6un" width="400" alt="Darshan Sharma's Dev Card"/></a>
 <br>
 <br>
